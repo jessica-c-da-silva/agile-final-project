@@ -1,15 +1,13 @@
 # agile-final-project
 IBM Agile Final Project
 
-Final Project Scenario
-In this scenario, you will play the roles of a product owner, scrum master, and developer. As a product owner, you will create stories for your team and organize these stories into a product backlog. As a scrum master, you will create a sprint milestone and ensure that a subset of the stories is ready to be placed in a sprint plan. As a developer, you will create the sprint backlog and execute some of the stories by moving them across the kanban board in a simulated sprint.
+Final Project Scenario: In this scenario, I'll take on the roles of product owner, scrum master, and developer. As product owner, I'll create stories for the team and organize them into a product backlog. As scrum master, I'll create a sprint milestone and ensure a subset of stories is ready for the sprint plan. As developer, I'll create the sprint backlog and execute some stories, moving them across the kanban board in a simulated sprint.
 
-Your team has been tasked with developing the backend product catalog for an e-commerce website. Stakeholders require the ability to create, retrieve, update, and delete products from the catalog, along with features like indicating product likes and hosting on a cloud environment with automated deployments.
+Our team's task is developing the backend product catalog for an e-commerce website. Stakeholders need the ability to create, retrieve, update, and delete products from the catalog, along with features like product likes and hosting on a cloud environment with automated deployments.
 
-Your team will use a kanban board to create a backlog and sprint plan for this work. As the product owner, you will drive the process by leveraging the skills learned in the lessons and labs to create a new GitHub repository and kanban board and fill the kanban board with issues that will become user stories.
+We'll use a kanban board to create a backlog and sprint plan. As product owner, I'll drive the process, using my skills to create a new GitHub repository and kanban board, then fill the board with issues that will become user stories.
 
-Stakeholder Requirements
-These are the requirements from your stakeholders that you should use to create the user stories in Kanban board.
+Stakeholder Requirements: These are the requirements from our stakeholders that I'll use to create the user stories in the Kanban board.
 
 Need the ability to create a product in the catalog.
 
